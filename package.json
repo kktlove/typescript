@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^5.0.4"
+  },
+  "compilerOptions": {
+    "strict": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
